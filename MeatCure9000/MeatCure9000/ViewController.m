@@ -12,7 +12,7 @@
 @end
 
 
-NSString *ip = @"http://meatcure9000.hopto.org:8090";
+NSString *ip = @"xxxxxxxxxx";
 
 bool removeSplash = false;
 long code =0;
